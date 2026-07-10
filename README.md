@@ -1,7 +1,7 @@
-<h1 align="center">👋 안녕하세요!</h1>
+<h1 align="center">👋 안녕하세요! 저는 우현수입니다.</h1>
 
 <p align="center">
-  <b>Computer Science Student</b><br>
+  <b>Computer Science Information Engineering Student</b><br>
   웹 개발과 앱 개발에 관심을 가지고 꾸준히 성장하고 있는 개발자입니다.
 </p>
 
